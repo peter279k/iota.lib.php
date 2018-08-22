@@ -2,9 +2,11 @@
 
 ## Development note
 
-This library is under developemnt know and this library is not released any stable version yet.
+This library is under developemnt now and this library is not released any stable version yet.
 
 So this will not be installed this via Composer.
+
+And it's also exists some bugs/issues. Using this library is at your own risk.
 
 ---
 
