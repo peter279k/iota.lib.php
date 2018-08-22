@@ -4,15 +4,13 @@
 
 This library is under developemnt now and this library is not released any stable version yet.
 
-So this will not be installed this via Composer.
+So this will not be installed via Composer.
 
-And it's also exists some bugs/issues. Using this library is at your own risk.
+And it also exists some bugs/issues. Using this library is at your own risk.
 
 ---
 
 This is the unofficial PHP library for the IOTA Core. (It's possibly be the official PHP library someday...)
-
-It's under the development now.
 
 It uses the PHP to reimplement the `iot.lib.js` library.
 
